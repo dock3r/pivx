@@ -1,0 +1,2 @@
+# pivx
+PIVX daemon
